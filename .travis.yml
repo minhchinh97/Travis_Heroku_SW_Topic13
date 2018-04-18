@@ -5,4 +5,4 @@ deploy:
  provider: heroku
  api-key:
   secure: $HEROKU_API_KEY
- app: Travis_Heroku_SW_Topic13
+ app: travis-heroku-sw-topic13
